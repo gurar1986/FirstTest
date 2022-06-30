@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-26T20:01:11 EDT" name="MainTest" finished-at="2022-06-26T20:01:20 EDT" duration-ms="9537">
+    <groups>
+    </groups>
+    <test started-at="2022-06-26T20:01:11 EDT" name="Command line test" finished-at="2022-06-26T20:01:20 EDT" duration-ms="9537">
+      <class name="MainTest">
+        <test-method is-config="true" signature="Base()[pri:0, instance:MainTest@5176d279]" started-at="2022-06-26T20:01:11 EDT" name="Base" finished-at="2022-06-26T20:01:18 EDT" duration-ms="7298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Base -->
+        <test-method signature="firstWebTest()[pri:0, instance:MainTest@5176d279]" started-at="2022-06-26T20:01:18 EDT" name="firstWebTest" finished-at="2022-06-26T20:01:19 EDT" duration-ms="502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstWebTest -->
+        <test-method is-config="true" signature="Base()[pri:0, instance:MainTest@5176d279]" started-at="2022-06-26T20:01:19 EDT" name="Base" finished-at="2022-06-26T20:01:20 EDT" duration-ms="1581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Base -->
+        <test-method signature="testAbbr()[pri:0, instance:MainTest@5176d279]" started-at="2022-06-26T20:01:20 EDT" name="testAbbr" finished-at="2022-06-26T20:01:20 EDT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAbbr -->
+      </class> <!-- MainTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- MainTest -->
+</testng-results>
